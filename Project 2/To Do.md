@@ -1,3 +1,22 @@
+# Meets 
+
+| **Location** | **Date** |
+| ------------------ | -------------- |
+| Google meet        | 29.05          |
+
+| **Agenda**                              | **Participantes**                           |
+| --------------------------------------------- | ------------------------------------------------- |
+| Ponto situação,<br />Distribuição tarefas | Diogo<br />Gonçalo Eloy <br />Rafa <br />André |
+
+
+| To do                      | **Deadline** | **Owner** |
+| -------------------------- | ------------------ | --------------- |
+| Outliers Statistical tests | 02.06              | André          |
+| Cross Validation           | 02.06              | Diogo           |
+| Standardize Variables      | 02.06              | Rafa            |
+| NaN’s - Mode, KNN         | 02.06              | Eloy            |
+|                            |                    | Matos           |
+
 # To Do
 
 * Data Exploration
