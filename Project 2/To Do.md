@@ -1,4 +1,4 @@
-# Meets 
+# Meets
 
 | **Location** | **Date** |
 | ------------------ | -------------- |
@@ -8,7 +8,6 @@
 | --------------------------------------------- | ------------------------------------------------- |
 | Ponto situação,<br />Distribuição tarefas | Diogo<br />Gonçalo Eloy <br />Rafa <br />André |
 
-
 | To do                      | **Deadline** | **Owner** |
 | -------------------------- | ------------------ | --------------- |
 | Outliers Statistical tests | 02.06              | André          |
@@ -16,6 +15,24 @@
 | Standardize Variables      | 02.06              | Rafa            |
 | NaN’s - Mode, KNN         | 02.06              | Eloy            |
 |                            |                    | Matos           |
+
+**2.** 
+
+Location: Google meets
+
+Date: 09.06.23
+
+| Agenda                 | Participantes                                    |
+| ---------------------- | ------------------------------------------------ |
+| Distribuição tarefas | Diogo<br />Matos<br />Eloy<br />Rafa<br />André |
+
+| To do                                      | Deadlines | Owner  |
+| ------------------------------------------ | --------- | ------ |
+| Inputs & Outputs functionsLABs             | 11.06     | André |
+| Finalize Data ExplorationPrepare functions | 11.06     | Diogo  |
+| Viz + conclusions + add kaggle             | 11.06     | Rafa   |
+| Report                                     | 11.06     | Eloy   |
+| Report                                     | 11.06     | Matos  |
 
 # To Do
 
